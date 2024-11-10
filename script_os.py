@@ -4,5 +4,5 @@ current_file = os.path.abspath(__file__)
 
 current_dir = os.path.dirname(current_file)
 
-tmp_dir = os.path.join(current_dir, "tmp")
+tmp_dir = os.path.join(current_dir, "files")
 print(tmp_dir)
